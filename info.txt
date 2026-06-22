@@ -1,0 +1,62 @@
+Module 1 -  https://youtu.be/QapRxSgRQdw?si=_mttAi9JYqFVNXIq
+            https://youtu.be/QapRxSgRQdw?si=REN9CPXC2xueE2PY  # how Youtube is able to generate the differnt links for the same video ?
+0:00 - Introduction & Agenda
+1:27 - Introduction to Git & Github
+4:29 - What is a Version Control System?
+11:45 - Visual depiction of Git workflow
+26:39 - Getting started with web development
+29:03 - Structure of Web
+31:29 - Web Development Architecture
+35:50 - Web Development Complete Roadmap
+44:45 - Setting up the Development Environment and Tools
+49:31 - Getting started with VS Code
+54:14 - Creating a web page and understanding various components
+1:10:07 - Pushing files to Github repository from VS Code
+
+
+Git : 1.Tracking and managing changes to software Code
+      2.help software teams manage changes code over time.
+
+
+Repository - storage location 
+Clone 
+Staging  
+Commit 
+
+push 
+pull 
+
+Common git commands - 
+git config
+git init 
+git clone <path>
+git add <file_name>
+git commit 
+git status 
+git remote 
+git checkout <branch_name>
+git branch 
+git push 
+git pull 
+git merge <branch_name>
+git diff 
+git reset 
+git revert 
+git tag 
+git log 
+
+
+Github - is a code hosing platform for collaboration and version control.
+
+Structure - HTML - Structure or fundamental
+            CSS - Designing Unit 
+            JavaScript - Functional Unit
+
+3 Tier Architecture - 
+    Clint Tier
+    Logic Tier
+    Data Tier
+
+   Responsive design - for different screen size. # ecmascript 
+
+DOM - Document Object Model 
